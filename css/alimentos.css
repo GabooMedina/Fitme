@@ -1,0 +1,60 @@
+
+
+  .logo{
+    display: flex;
+    justify-content: center;
+    padding-block-end: 30px;
+  }
+
+.titulo{
+    padding-top: 50px;
+    padding-block-end: 30px;
+}
+
+
+.nombre{
+    padding-top: 10px;
+}
+
+.tipo{
+    padding-top: 10px;
+}
+
+.porciones{
+    padding-top: 10px;
+}
+ 
+.proteinas{
+    padding-top: 10px;
+}
+
+.carbohidratos{
+    padding-top: 10px;
+}
+ 
+.grasas{
+    padding-top: 10px;
+}
+
+.azucares{
+    padding-top: 10px;
+}
+
+.calorias{
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    width: 200px;
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+  }
+
+.fot{
+    padding-top: 100px;
+}
+  

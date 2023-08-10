@@ -1,0 +1,22 @@
+.titulo{
+    padding-top: 50px;
+    padding-block-end: 30px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 250px;
+    
+  }
+
+.logo{
+    display: flex;
+    justify-content: center;
+    
+  }
+
+
+.card{
+    text-align: justify;
+}

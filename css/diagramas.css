@@ -1,0 +1,13 @@
+
+.titulo{
+    padding-top: 50px;
+    padding-block-end: 30px;
+}
+
+.evento{
+    display: flex;
+    justify-content: space-between; /* Para separar los elementos en la fila */
+    align-items: center; /* Para alinear verticalmente los elementos */
+    padding-top: 20px;
+}
+

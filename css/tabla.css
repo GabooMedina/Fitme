@@ -1,0 +1,30 @@
+.table-container {
+    max-width: 800px; /* Ajusta el ancho máximo según tus necesidades */
+    margin: 0 auto; /* Centra horizontalmente la tabla */
+    padding-block-end: 20px;
+  }
+  .titulo{
+    padding-top: 50px;
+    padding-block-end: 30px;
+    text-align: center;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  padding-block-end: 30px;
+}
+img {
+  display: block;
+  width: 200px;
+}
+
+.cabezera{
+text-align: center; /* Alineación horizontal centrada para los encabezados */
+  vertical-align: middle; /* Alineación vertical centrada para los encabezados */
+}
+
+.datos{
+  text-align: left; /* Alineación horizontal izquierda para los datos */
+  vertical-align: top; /* Alineación vertical superior para los datos */
+}

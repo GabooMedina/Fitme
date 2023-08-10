@@ -1,0 +1,59 @@
+
+img {
+    display: block;
+    width: 300px;
+    
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+    padding-block-end: 30px;
+  }
+
+.titulo{
+    padding-top: 50px;
+    padding-block-end: 30px;
+}
+
+.usuario{
+    padding-top: 10px;
+}
+
+.nombre{
+    padding-top: 10px;
+}
+
+.apellido{
+    padding-top: 10px;
+}
+
+.password{
+    padding-top: 10px;
+}
+ 
+.password2{
+    padding-top: 10px;
+}
+
+.telefono{
+    padding-top: 10px;
+}
+ 
+.correo{
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    width: 200px;
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+  }
+
+.fot{
+    padding-top: 100px;
+}
+  
