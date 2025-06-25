@@ -2,7 +2,7 @@
 
 ---
 
-### 🍽️ Gestión de Alimentos
+## 🍽️ Descripcion
 
 <p>
 <strong>Registro detallado</strong>: Los usuarios pueden agregar cada comida con:<br>
